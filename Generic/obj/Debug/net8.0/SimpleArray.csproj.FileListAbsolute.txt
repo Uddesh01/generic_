@@ -1,0 +1,14 @@
+C:\Practice\Generic\Generic\bin\Debug\net8.0\SimpleArray.exe
+C:\Practice\Generic\Generic\bin\Debug\net8.0\SimpleArray.deps.json
+C:\Practice\Generic\Generic\bin\Debug\net8.0\SimpleArray.runtimeconfig.json
+C:\Practice\Generic\Generic\bin\Debug\net8.0\SimpleArray.dll
+C:\Practice\Generic\Generic\bin\Debug\net8.0\SimpleArray.pdb
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.AssemblyInfoInputs.cache
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.AssemblyInfo.cs
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.csproj.CoreCompileInputs.cache
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.dll
+C:\Practice\Generic\Generic\obj\Debug\net8.0\refint\SimpleArray.dll
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.pdb
+C:\Practice\Generic\Generic\obj\Debug\net8.0\SimpleArray.genruntimeconfig.cache
+C:\Practice\Generic\Generic\obj\Debug\net8.0\ref\SimpleArray.dll

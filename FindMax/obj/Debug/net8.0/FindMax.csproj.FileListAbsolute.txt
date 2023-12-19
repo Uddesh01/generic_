@@ -1,0 +1,14 @@
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMax.exe
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMax.deps.json
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMax.runtimeconfig.json
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMax.dll
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMax.pdb
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.AssemblyInfoInputs.cache
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.AssemblyInfo.cs
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.csproj.CoreCompileInputs.cache
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.dll
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\refint\FindMax.dll
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.pdb
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMax.genruntimeconfig.cache
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\ref\FindMax.dll

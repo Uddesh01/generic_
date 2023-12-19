@@ -1,0 +1,14 @@
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMin.exe
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMin.deps.json
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMin.runtimeconfig.json
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMin.dll
+C:\Practice\Generic\FindMax\bin\Debug\net8.0\FindMin.pdb
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.AssemblyInfoInputs.cache
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.AssemblyInfo.cs
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.csproj.CoreCompileInputs.cache
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.dll
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\refint\FindMin.dll
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.pdb
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\FindMin.genruntimeconfig.cache
+C:\Practice\Generic\FindMax\obj\Debug\net8.0\ref\FindMin.dll

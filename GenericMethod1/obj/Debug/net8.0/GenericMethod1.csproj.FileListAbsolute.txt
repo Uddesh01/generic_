@@ -1,0 +1,14 @@
+C:\Practice\Generic\GenericMethod1\bin\Debug\net8.0\GenericMethod1.exe
+C:\Practice\Generic\GenericMethod1\bin\Debug\net8.0\GenericMethod1.deps.json
+C:\Practice\Generic\GenericMethod1\bin\Debug\net8.0\GenericMethod1.runtimeconfig.json
+C:\Practice\Generic\GenericMethod1\bin\Debug\net8.0\GenericMethod1.dll
+C:\Practice\Generic\GenericMethod1\bin\Debug\net8.0\GenericMethod1.pdb
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.AssemblyInfoInputs.cache
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.AssemblyInfo.cs
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.csproj.CoreCompileInputs.cache
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.dll
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\refint\GenericMethod1.dll
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.pdb
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\GenericMethod1.genruntimeconfig.cache
+C:\Practice\Generic\GenericMethod1\obj\Debug\net8.0\ref\GenericMethod1.dll

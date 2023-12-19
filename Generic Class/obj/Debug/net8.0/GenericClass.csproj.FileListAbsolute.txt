@@ -1,0 +1,14 @@
+C:\Practice\Generic\Generic Class\bin\Debug\net8.0\GenericClass.exe
+C:\Practice\Generic\Generic Class\bin\Debug\net8.0\GenericClass.deps.json
+C:\Practice\Generic\Generic Class\bin\Debug\net8.0\GenericClass.runtimeconfig.json
+C:\Practice\Generic\Generic Class\bin\Debug\net8.0\GenericClass.dll
+C:\Practice\Generic\Generic Class\bin\Debug\net8.0\GenericClass.pdb
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.AssemblyInfoInputs.cache
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.AssemblyInfo.cs
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.dll
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\refint\GenericClass.dll
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.pdb
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\GenericClass.genruntimeconfig.cache
+C:\Practice\Generic\Generic Class\obj\Debug\net8.0\ref\GenericClass.dll
